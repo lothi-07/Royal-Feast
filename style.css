@@ -1,0 +1,60 @@
+.container-hero{
+    background-image:url("images/view-ready-eat-delicious-meal-go.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 95vh;
+    color: rgb(254, 254, 252);
+    text-align: center;
+    padding-top: 10vh;
+}
+.container-hero h1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+.header{
+    background-color: rgb(242, 225, 138);
+    padding: 50px;
+    justify-content: start;
+}
+.btn_order{
+    background: linear-gradient( #e3db63, #feb47b);
+    color: white;      
+}
+.delivery-section{
+    width: 100%;
+    background-color: rgb(195, 205, 217);
+}
+.delivery-content{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.delivery-img{
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+    margin-left: auto;
+    display: block;
+}
+.payment-icons{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.thankyou-section{
+    background:radial-gradient(rgb(223, 216, 195), rgb(246, 222, 126));
+    padding-top: 100vh;
+}    
+.card-text{
+    text-align: left;
+}
+.footer{
+    background-color: rgb(5, 25, 50);
+    padding: 20px;
+    color:rgb(134, 132, 129);
+}
+.navbar{
+    position:fixed;
+}
